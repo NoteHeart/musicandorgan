@@ -4,20 +4,20 @@
     "href": "test.html",
     "title": "Test",
     "section": "",
-    "text": "How did I end up here?"
+    "text": "Just a test to see if I can have multiple selections other than the “home” and the “about” selection. Nothing to see here… probably.\nStrider 1, Fox 2."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Glen’s test run to make a functional website using RStudio and Github. I’ll work on this later."
+    "text": "Mathematician, Applied Emphasis. This website is mostly used as a testing ground for all my experiments.\nDisclaimer: I am not a professional programmer, consider this website as me following a tutorial and going through a crash course on JavaScript, CSS, etc.\n-Glen"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Music and Organ",
     "section": "",
-    "text": "Glen’s personal Quarto website.\nI’ll populate this and decorate it later."
+    "text": "Glen’s personal Quarto website.\nSite name’s a wordplay with the logo."
   }
 ]

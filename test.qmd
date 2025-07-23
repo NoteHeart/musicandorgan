@@ -4,37 +4,4 @@ title: "Test"
 
 Just a test to see if I can have multiple selections other than the "home" and the "about" selection. Nothing to see here... probably.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Strider 1, Fox 2.

@@ -6,16 +6,12 @@ website:
   title: "Music And Organ"
   navbar:
     right:
-      - href: index.qmd
-        icon: person-square
-        text: Home
-      - href: test.qmd
-        icon: question-circle-fill
-        text: Test
       - href: about.qmd
         icon: bookmark-fill
         text: About
-
+      - href: test.qmd
+        icon: question-circle-fill
+        text: Test
 format:
   html:
     theme: darkly
