@@ -1,4 +1,18 @@
 /* css styles */
-$body-bg #171717
-$body-color #EEEEEE
-$input-bg #00B20E
+
+.navbar{
+  color: #00b20e;
+  background-color: #00b20e;
+}
+
+.navbar-title{
+  color: #EEEEEE;
+}
+
+.body{
+  background-color: #171717;
+}
+
+.menu-text{
+  color: #EEEEEE;
+}
