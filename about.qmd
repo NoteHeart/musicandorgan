@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Glen's test run to make a functional website using RStudio and Github. I'll work on this later.
