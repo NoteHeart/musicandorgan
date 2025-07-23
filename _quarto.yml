@@ -4,14 +4,20 @@ project:
 
 website:
   title: "Music And Organ"
+  search: false
   navbar:
     right:
       - href: about.qmd
         icon: bookmark-fill
         text: About
+        
       - href: test.qmd
         icon: question-circle-fill
         text: Test
+        
+      - icon: github
+        href: https://github.com/NoteHeart
+        text: GitHub
 format:
   html:
     theme: darkly
