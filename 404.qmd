@@ -1,0 +1,6 @@
+---
+title: "404"
+format: html
+---
+
+So... that happened. We'll be back up shortly.
