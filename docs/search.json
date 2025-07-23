@@ -4,20 +4,20 @@
     "href": "test.html",
     "title": "Test",
     "section": "",
-    "text": "Putangina, how did I end up here?\n\n1 + 1\n\n[1] 2"
+    "text": "How did I end up here?"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Glen’s test run to make a functional website using RStudio and Github. I’ll work on this later."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Music and Organ",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Glen’s personal Quarto website.\nI’ll populate this and decorate it later."
   }
 ]
