@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Glen's test run to make a functional website using RStudio and Github. I'll work on this later.
+Mathematician, Applied Emphasis. This website is mostly used as a testing ground for all my experiments.
+
+Disclaimer: I am not a professional programmer, consider this website as me following a tutorial and going through a crash course on JavaScript, CSS, etc.
+
+-Glen
