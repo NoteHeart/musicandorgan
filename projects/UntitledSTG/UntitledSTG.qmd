@@ -1,0 +1,26 @@
+---
+title: "Untitled STG"
+image: CrimsonLotusPlaceholder.png
+page-layout: article
+---
+
+"Untitled "S"hoo"T"ing "G"ame"
+
+Engine: Shooting Game Builder
+
+Barely made past through the planning stage due to schedule conflicts and pursuing other passions. TL;DR: it was basically "what if Infinite Stratos (yes, that mediocre anime) were planes instead.
+
+Concept Renders drawn by yours truly (yes, they are kind of awful.):
+
+![Crimson Lotus - the default 1P ship. Pretty generic.](images/CrimsonLotusPlaceholder.png)
+
+![Azure Cyanus - The 2P ship. It was made to be a derivative of Crimson Lotus because I don't know if STG Builder can handle two players at once.](images/AzureCyanusPlaceholder.png)
+
+![Winged Dragoon - The heavy hitter. Moves slow, but packs a punch.](images/WingedDragoonPlaceholder.png)
+Sprites:
+
+![Big Zako - It was too big to be a common enemy... sort of.](images/BigZako-Sheet.png)
+
+![Yes, the resolution of the game was THAT small. How can you tell?](images/Aseprite.png)
+
+![Ditto.](images/Aseprite2.png)

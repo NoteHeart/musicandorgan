@@ -15,6 +15,10 @@ website:
         icon: question-circle-fill
         text: Test
         
+      - href: projects.qmd
+        icon: controller
+        text: Projects
+        
       - icon: github
         href: https://github.com/NoteHeart
         text: GitHub

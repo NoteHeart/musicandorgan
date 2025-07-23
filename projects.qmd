@@ -1,0 +1,8 @@
+---
+title: "Projects"
+listing:
+    contents: projects
+    type: default
+---
+
+The finished stuff, the unfinished stuff, all that jazz.
