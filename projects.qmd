@@ -3,6 +3,8 @@ title: "Projects"
 listing:
     contents: projects
     type: default
+page-layout: full
+title-block-banner: false
 ---
 
 The finished stuff, the unfinished stuff, all that jazz.
