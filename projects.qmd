@@ -2,7 +2,9 @@
 title: "Projects"
 listing:
     contents: projects
+    feed: false
     type: default
+    categories: true
 page-layout: full
 title-block-banner: false
 ---

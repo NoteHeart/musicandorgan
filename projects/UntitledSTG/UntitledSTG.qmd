@@ -2,6 +2,7 @@
 title: "Untitled STG"
 image: CrimsonLotusPlaceholder.png
 page-layout: article
+categories: [Concepts]
 ---
 
 "Untitled *S*hoo*T*ing *G*ame"
