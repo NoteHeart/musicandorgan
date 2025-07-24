@@ -2,7 +2,7 @@
 title: "Music and Organ"
 about:
   template: jolla
-  image: MusicAndOrgan.png
+  image: images/MusicAndOrgan.png
 ---
 
 Glen's personal Quarto website.
