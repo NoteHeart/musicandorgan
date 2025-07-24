@@ -11,7 +11,9 @@ It was supposed to be a proof of concept due to me being inexperienced in coding
 
 Engine: Shooting Game Builder
 
-Barely made past through the planning stage due to schedule conflicts and me pursuing other passions. I might get back to this later or something, but don't count on it. TL;DR: it was basically "what if Infinite Stratos (yes, that mediocre anime) were planes instead." It probably would've been similar to Ace Combat or something due to the fact that Ace Combat 3 literally takes place in the future lmao.
+Barely made past through the planning stage due to schedule conflicts and me pursuing other passions. I might get back to this later or something, but don't count on it. TL;DR: it was basically "what if Infinite Stratos (yes, that mediocre anime) had planes instead." It probably would've been similar to Ace Combat or something due to the fact that Ace Combat 3 literally takes place in the future lmao.
+
+Currently, there's no plans to actually release a demo of it. I'm pretty sure it's gonna be buggy as all hell despite STGBuilder requires no coding experience at all, haha.
 
 Concept Renders drawn by yours truly (yes, they are kind of awful.):
 
