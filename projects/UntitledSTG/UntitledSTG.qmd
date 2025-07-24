@@ -5,6 +5,8 @@ page-layout: article
 ---
 
 "Untitled "S"hoo"T"ing "G"ame"
+-------------------------------
+It was supposed to be a proof of concept due to me being inexperienced in coding back in university when I was finishing up my final years. Never thought I'd randomly buy Shooting Game Builder and put the concept in a demo. It sorta worked, but I never got it off its testing phase.
 
 Engine: Shooting Game Builder
 
