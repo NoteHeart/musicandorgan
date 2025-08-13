@@ -21,13 +21,6 @@
     "text": "What could have been, maybe I might come back to it in a different artstyle.\n\n\nIt was supposed to be a proof of concept due to me being inexperienced in coding back in university when I was finishing up my final years. Never thought I’d randomly buy Shooting Game Builder and put the concept in a demo. It sorta worked, but I never got it off its testing phase.\nEngine: Shooting Game Builder\nBarely made past through the planning stage due to schedule conflicts and me pursuing other passions. I might get back to this later or something, but don’t count on it. TL;DR: it was basically “what if Infinite Stratos (yes, that mediocre anime) had planes instead.” It probably would’ve been similar to Ace Combat or something due to the fact that Ace Combat 3 literally takes place in the future lmao.\nCurrently, there’s no plans to actually release a demo of it. I’m pretty sure it’s gonna be buggy as all hell despite STGBuilder requires no coding experience at all, haha.\nConcept Renders drawn by yours truly (yes, they are kind of awful.):\n\n\n\nCrimson Lotus - the default 1P ship. Pretty generic. I think I crossed an F-22A Raptor over with Azuma from Raiden V. It ended up looking more like an F-14A Tomcat with a single tail wing haha.\n\n\n\n\n\nAzure Cyanus - The 2P ship. It was made to be a derivative of Crimson Lotus because I don’t know if STG Builder can handle two players at once.\n\n\n\n\n\nWinged Dragoon - The heavy hitter. Moves slow, but packs a punch. Yes, this kind of design exists in real life. Search up the “de Havilland Sea Vixen” if you think I’m joking.\n\n\nSprites:\n\n\n\nBig Zako - It was too big to be a common enemy… sort of.\n\n\n\n\n\nYes, the resolution of the game was THAT small. How can you tell?\n\n\n\n\n\nDitto.\n\n\nAnd just for fun, I decided to give the faceless pilots a bit of a personality as well (I think at that time, every nation was redacted because I didn’t know if I should 1. set the story in the real world far into the future, or 2. make a new world akin to Strangereal.):\n\n\n\nFun fact: This guy’s callsign is a reference to Houki Shinonono from Infinite Stratos. Yes, her name is literally “Broom” in Japanese. Look, I don’t know, okay?\n\n\n\n\n\nI feel like this would be “easy” to model in blender, PSX style. I think the callsign “Brash Head” was kind of the fact that Winged Dragoon was meant to be for gun nuts. (turrets go “BRRRRRRRRRRRRR”.)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Mathematician, Applied Emphasis. This website is mostly used as a testing ground for all my experiments, so this is getting constantly updated when I have the chance as I learn the basics… than then advanced stuff.\nDisclaimer: I am not a professional programmer, consider this website as me following a tutorial and going through a crash course on JavaScript, CSS, etc.\n-Glen"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Music and Organ",
@@ -35,24 +28,31 @@
     "text": "Glen’s personal Quarto website.\nSite name’s a wordplay with the logo."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "The finished stuff, the unfinished stuff, all that jazz.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoundHeadStickFigures\n\n\n\nCrappy Art\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUntitled STG\n\n\n\nUnfinished\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Mathematician, Applied Emphasis. This website is mostly used as a testing ground for all my experiments, so this is getting constantly updated when I have the chance as I learn the basics… than then advanced stuff.\nDisclaimer: I am not a professional programmer, consider this website as me following a tutorial and going through a crash course on JavaScript, CSS, etc.\n-Glen"
   },
   {
     "objectID": "projects/RoundHeadStickFigures/RoundHeadStickFigures.html",
     "href": "projects/RoundHeadStickFigures/RoundHeadStickFigures.html",
-    "title": "RoundHeadStickFigures",
+    "title": "Round Head Stick Figures",
     "section": "",
     "text": "You’d think I wouldn’t have these complicated designs by now… or actually draw better hands.\n\n\nI don’t know, consider this place as my stupid art dump or something (I am not a professional artist either.)\nAnd yes, his render is based off of a render of Link during his time in Hyrule Warriors, go figure."
   },
   {
     "objectID": "projects/RoundHeadStickFigures/RoundHeadStickFigures.html#stick-figures.",
     "href": "projects/RoundHeadStickFigures/RoundHeadStickFigures.html#stick-figures.",
-    "title": "RoundHeadStickFigures",
+    "title": "Round Head Stick Figures",
     "section": "",
     "text": "You’d think I wouldn’t have these complicated designs by now… or actually draw better hands.\n\n\nI don’t know, consider this place as my stupid art dump or something (I am not a professional artist either.)\nAnd yes, his render is based off of a render of Link during his time in Hyrule Warriors, go figure."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The finished stuff, the unfinished stuff, all that jazz.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRound Head Stick Figures\n\n\n\nCrappy Art\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUntitled STG\n\n\n\nUnfinished\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

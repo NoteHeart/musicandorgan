@@ -1,5 +1,5 @@
 ---
-title: "RoundHeadStickFigures"
+title: "Round Head Stick Figures"
 page-layout: article
 categories: [Crappy Art]
 ---
