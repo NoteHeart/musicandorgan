@@ -4,10 +4,9 @@ page-layout: article
 categories: [Crappy Art]
 ---
 
-"Stick Figures."
--------------------------------
+## "Stick Figures."
 
-![You'd think I wouldn't have these complicated designs by now... or actually draw better hands.](images/Aran Ward 2024.png)
+![You'd think I wouldn't have these complicated designs by now... or actually draw better hands.](images/Aran%20Ward%202024.png)
 
 I don't know, consider this place as my stupid art dump or something (I am not a professional artist either.)
 
