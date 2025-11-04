@@ -8,3 +8,5 @@ about:
 Glen's personal Quarto website. Professionalism not included (for now.)
 
 Site name's a wordplay with the logo.
+
+(This bracketed statement is intentionally thrown in due to me switching Web Browsers.)
