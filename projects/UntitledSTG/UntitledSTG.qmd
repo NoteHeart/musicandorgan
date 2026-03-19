@@ -14,9 +14,9 @@ It was supposed to be a proof of concept due to me being inexperienced in coding
 
 Engine: Shooting Game Builder
 
-Barely made past through the planning stage due to schedule conflicts and me pursuing other passions. I might get back to this later or something, but don't count on it. TL;DR: it was basically "what if Infinite Stratos (yes, that mediocre anime) had planes instead." It probably would've been similar to Ace Combat or something due to the fact that Ace Combat 3 literally takes place in the future lmao.
+Barely made past through the planning stage due to schedule conflicts and me pursuing other passions. I might get back to this later or something, but don't count on it. TL;DR: it was basically "what if Infinite Stratos (yes, that mediocre anime) had planes instead." It probably would've been similar to Ace Combat or something due to the fact that Ace Combat 3 literally takes place in the future.
 
-Currently, there's no plans to actually release a demo of it. I'm pretty sure it's gonna be buggy as all hell despite STGBuilder requires no coding experience at all, haha.
+Currently, there's no plans to actually release a demo of it. I'm pretty sure it's gonna be buggy as all hell despite STGBuilder requires no coding experience at all.
 
 Concept Renders drawn by yours truly (yes, they are kind of awful.):
 
@@ -36,6 +36,6 @@ Sprites:
 
 And just for fun, I decided to give the faceless pilots a bit of a personality as well (I think at that time, every nation was redacted because I didn't know if I should 1. set the story in the real world far into the future, or 2. make a new world akin to Strangereal.):
 
-![Fun fact: This guy's callsign is a reference to Houki Shinonono from Infinite Stratos. Yes, her name is literally "Broom" in Japanese. Look, I don't know, okay?](images/CRIMSONLOTUSINFO.png)
+![Fun fact: This guy's callsign is a reference to Houki Shinonono from Infinite Stratos. Yes, her name is literally "Broom" in Japanese. Look, I don't know, okay? And yes, that's his usual catchprhase.](images/CRIMSONLOTUSINFO.png)
 
 ![I feel like this would be "easy" to model in blender, PSX style. I think the callsign "Brash Head" was kind of the fact that Winged Dragoon was meant to be for gun nuts. (turrets go "BRRRRRRRRRRRRR".)](images/WINGEDDRAGOONINFO.png)
