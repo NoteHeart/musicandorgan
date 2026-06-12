@@ -5,8 +5,8 @@ about:
   image: images/MusicAndOrgan.png
 ---
 
-Glen's personal Quarto website. Professionalism not included (for now.)
+Glen's personal Quarto website.
+
+Crash Coursing myself through basic programming... again!
 
 Site name's a wordplay with the logo.
-
-(This bracketed statement is intentionally thrown in due to me switching Web Browsers.)
